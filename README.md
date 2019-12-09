@@ -1,0 +1,3 @@
+- Leaderboard gets updated after user presses ENTER to restart the game.
+- "leaderboard.txt" requires an empty field at the bottom of the file to work as intended
+- Please view Report.pdf for more information
